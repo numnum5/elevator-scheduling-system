@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/call.dir/src/call.cpp.o -o call  libtcp.a liblogger.a 

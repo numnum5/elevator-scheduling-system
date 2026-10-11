@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/elevator.dir/src/main.cpp.o -o elevator  libtcp.a liblogger.a 

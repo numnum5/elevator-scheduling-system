@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/internal.dir/src/internal.cpp.o -o internal  libtcp.a liblogger.a 

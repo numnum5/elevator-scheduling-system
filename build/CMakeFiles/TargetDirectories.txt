@@ -1,0 +1,10 @@
+/home/numnum/elevator/build/CMakeFiles/logger.dir
+/home/numnum/elevator/build/CMakeFiles/tcp.dir
+/home/numnum/elevator/build/CMakeFiles/elevator.dir
+/home/numnum/elevator/build/CMakeFiles/call.dir
+/home/numnum/elevator/build/CMakeFiles/car.dir
+/home/numnum/elevator/build/CMakeFiles/internal.dir
+/home/numnum/elevator/build/CMakeFiles/controller.dir
+/home/numnum/elevator/build/CMakeFiles/build_all.dir
+/home/numnum/elevator/build/CMakeFiles/edit_cache.dir
+/home/numnum/elevator/build/CMakeFiles/rebuild_cache.dir

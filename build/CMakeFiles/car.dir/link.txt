@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/car.dir/src/car.cpp.o -o car  libtcp.a liblogger.a 

@@ -1,0 +1,75 @@
+Receive thread started
+Receive thread started
+Receive thread started
+call check status: CLOSED curr: 1 front: 0 dest: 1
+call check status: CLOSED curr: 1 front: 0 dest: 1
+handle_receive(): FLOOR 5
+call check status: BETWEEN curr: 2 front: 5 dest: 5
+call check status: BETWEEN curr: 2 front: 5 dest: 5
+handle_receive(): FLOOR 1
+call check status: BETWEEN curr: 3 front: 1 dest: 5
+call check status: BETWEEN curr: 3 front: 1 dest: 5
+call check status: BETWEEN curr: 4 front: 1 dest: 5
+call check status: BETWEEN curr: 4 front: 1 dest: 5
+call check status: BETWEEN curr: 4 front: 1 dest: 5
+call check status: BETWEEN curr: 4 front: 1 dest: 5
+handle_receive(): FLOOR 1
+handle_receive(): FLOOR 1
+handle_receive(): FLOOR 4
+STATUS OPENNING
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 1
+Status change to opening
+handle_receive(): FLOOR 4
+STATUS OPENNING
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 5
+STATUS OPENNING
+STATUS OPENNING
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 6
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 7
+STATUS OPENNING
+STATUS OPENNING
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 8
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 9
+STATUS OPENNING
+STATUS OPENNING
+STATUS OPENNING
+Status change to opening
+Status change to opening
+handle_receive(): FLOOR 3
+STATUS OPENNING
+STATUS OPENNING
+Time spent waiting for an elevator:
+Avg time: 1275.67ms
+Longest time: 2107.11ms
+ 594.25 - 896.82  ## (2)
+ 896.82 - 1199.39  (0)
+1199.39 - 1501.97 # (1)
+1501.97 - 1804.54 # (1)
+1804.54 - 2107.11 # (1)
+
+Time spent inside an elevator:
+Avg time: 571.83ms
+Longest time: 1103.34ms
+ 250.78 - 421.29  ## (2)
+ 421.30 - 591.81  # (1)
+ 591.81 - 762.32  # (1)
+ 762.32 - 932.83   (0)
+ 932.83 - 1103.34 # (1)
