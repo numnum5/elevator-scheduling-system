@@ -2,6 +2,11 @@
 
 This project is a C++ rewrite and continuation of an elevator control-system assignment from my third-year Systems Programming course.
 
+Checklist:
+- [x] Pass all test cases provided by the original project
+- [ ] Implement multi car scheduling algorithm
+- [ ] Implement common logging interface
+
 ## Motivation
 
 When I first completed this project at university, I was unable to make the implementation as complete or reliable as I wanted. Some edge cases remained unresolved, and the program did not pass every test case.
